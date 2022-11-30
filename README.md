@@ -1,4 +1,4 @@
-### The Projects that are in this repo:
+### The Programs That Are In This Repo:
 
 * Guessing Game
 * Phone Book Manager
