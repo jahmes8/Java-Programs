@@ -1,6 +1,4 @@
-# Java-Projects
-
-### The Java Projects that are in this repo:
+### The Projects that are in this repo:
 
 * Guessing Game
 * Phone Book Manager
