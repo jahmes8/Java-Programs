@@ -6,4 +6,4 @@
 * Phone Book Manager
 * Card Game
 * Binary Search Tree Directory 
-* Rock Paper Scissors 
+* Rock Paper Scissors (Written in Java & Python)
