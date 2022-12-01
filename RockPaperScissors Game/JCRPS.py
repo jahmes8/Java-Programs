@@ -1,11 +1,3 @@
-# Programmer: James Chen
-# Date: 11/29/22
-# Class: CS 145
-# Assignment 3
-# Description: Rock Paper Scissors Game
-# Extra Credit: Re-wrote it in Python
-# Hours Spent: ~ 20 Hours
-
 import random
 
 run = True
