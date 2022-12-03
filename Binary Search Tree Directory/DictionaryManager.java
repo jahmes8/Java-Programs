@@ -1,16 +1,4 @@
-
-// Programmer: Nam Le & James Chen
-// Date: 11/26/2022
-// Class: CS 145
-// Lab: Binary Search Tree
-
-// Function: Create a dictionary using binary search tree to 
-//           store information about employees and allow the
-//           user to add, delete, print, modify, and lookup
-//           specific employees.
-//           
-
-
+  
 package Dictionary;
 
 import java.util.NoSuchElementException;
